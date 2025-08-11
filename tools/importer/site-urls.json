@@ -114,7 +114,8 @@
       "url": "https://www.emdgroup.com/en/annualreport/2024/",
       "source": "CRAWL",
       "targetPath": "/en/annualreport/2024",
-      "id": "836522c2a441e47532da3fbac8744862e8549a3b"
+      "id": "836522c2a441e47532da3fbac8744862e8549a3b",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/annualreport/2024/index.html",
@@ -412,7 +413,8 @@
       "url": "https://www.emdgroup.com/en/company/contact-us.html",
       "source": "CRAWL",
       "targetPath": "/en/company/contact-us",
-      "id": "292b9fbf77387cb8a4c87377d829644f100b344c"
+      "id": "292b9fbf77387cb8a4c87377d829644f100b344c",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/company/contact-us/collaboration-via-microsoft-office-365.html",
@@ -490,7 +492,8 @@
       "url": "https://www.emdgroup.com/en/company/history/corporate-history-stories/corporate-history-stories-h3.html",
       "source": "CRAWL",
       "targetPath": "/en/company/history/corporate-history-stories/corporate-history-stories-h3",
-      "id": "770b0d89c02fbebf398953e940fd993b29139b81"
+      "id": "770b0d89c02fbebf398953e940fd993b29139b81",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/company/legal-proceedings.html",
