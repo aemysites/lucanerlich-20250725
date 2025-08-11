@@ -1,0 +1,416 @@
+{
+  "templates": [
+    {
+      "name": "Dashboard Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2020/",
+          "uuid": "577f903bb5025b3b90b249c219feb84177bee694"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2020/servicepages/downloads.html",
+          "uuid": "3d3d31592fed401b64315029bd3a6d535278cff3"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2020/servicepages/keyfigurescomparison.html",
+          "uuid": "fa5245f15945a2aec8798bde9c16cbcd4ebcb792"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2020/consolidated-financial-statements/income-statement.html",
+          "uuid": "d0d373acc97f1f9fd3cd51805143e6fca340ace9"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement/social/own-workforce-s1.html",
+          "uuid": "66ca7d04e857933648a5756cd9601ed3dd076ca9"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement/social/consumers-and-end-users-s4.html",
+          "uuid": "87e12b8527991df05aa98e5bd4af4fc6fee93caf"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement/environment/climate-change-e1.html",
+          "uuid": "ba16e6f33711bb37f8909bed800abb9fa867fca9"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement/social/workers-in-the-value-chain-s2.html",
+          "uuid": "732e07088259a45d5099c8ae8c9fccef124da7e8"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement/governance/business-conduct-g1.html",
+          "uuid": "8cb4a7552a50676c6607a7ab63d267feda7936f1"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement/environment/resource-use-and-circular-economy-e5.html",
+          "uuid": "4aac600f862d8a8811f1ade2980523b2db7d55c5"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement/environment/water-and-marine-resources-e3.html",
+          "uuid": "eeda0dd97fb25e27dfe17eba483276bbfbc678a3"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement.html",
+          "uuid": "b6d69ebc37b7c36a48d4270b1e3073b529ebb97d"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2023/",
+          "uuid": "0a0d1e180abcd8d96a343d410c8c6579dfcaba18"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2023/index.html",
+          "uuid": "251ed085a8afa3266cca19ec05acc5696a8fb06a"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2022/",
+          "uuid": "9cdef988c44e35812da5b3387c2eb05169944018"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2021/",
+          "uuid": "53c37677b7159d0a364a60c650d0294cf20c5831"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2022/management-report/compensation-report/long-term-incentive-plan-ltip.html",
+          "uuid": "d7c8acf6e1d9ef9508f4d6b8f2bce2cc81ca5968"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2021/management-report/compensation-report/long-term-incentive-plan-ltip.html",
+          "uuid": "47a0e263078addb5d85e865b8b739d8f54b1c7dc"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2023/corporate-governance/compensation-report/long-term-incentive-plan-ltip.html",
+          "uuid": "00b6fcb3011c40e2209ff36fde1b152e26c71862"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2021/management-report/non-financial-statement.html",
+          "uuid": "f2959db3b7f1850c8459b02177adfec314285eeb"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2022/management-report/non-financial-statement.html",
+          "uuid": "bf5a4d5ced484ddd670d91246592d2e82b3be619"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/annualreport/2023/management-report/non-financial-statement.html",
+          "uuid": "84660d0288ec628d11c2ec43ad7999c0a80fd4cf"
+        }
+      ]
+    },
+    {
+      "name": "E-commerce Catalog Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.emdgroup.com/en?global_redirect=1",
+          "uuid": "a0f2f67952dd90cfdfb7437c56be868eac1d2bf7"
+        },
+        {
+          "url": "https://www.emdgroup.com/en",
+          "uuid": "31b74175f29cf815980814a94203f67b79c72498"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/xirallic/xirallic-nxt.html",
+          "uuid": "2574e9c762ba9784a0f08f578eb40514aaf584bc"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/colorstream/colorstream-pyrisma-stylings/first-light.html",
+          "uuid": "e89132683d27a8cab3c5582a5ea608178d453aa4"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/colorstream/colorstream-pyrisma-stylings/forest-hues.html",
+          "uuid": "8aa2e386c2fc4c93d616ed6a089f4ebf200c6ac0"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm.html",
+          "uuid": "76fab9b896528863efae953e3910683d986634d7"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/colorstream/colorstream-pyrisma-stylings/daydream.html",
+          "uuid": "e9bf1f475f29c5d24f4993ab2800a3081e1b0dc8"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/colorstream/colorstream-pyrisma-stylings/dusky-red.html",
+          "uuid": "a0d2fc154af47a8fc8df95c5bb35b6a3c02a2873"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/colorstream/colorstream-pyrisma-stylings/sunny-meadow.html",
+          "uuid": "d0ba42a368283b9ebdb805c2993f6caf211cdc05"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/durazane/durazane-product-finder.html",
+          "uuid": "d66db674685d0669a58c4ea9914a784155036c94"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/medinfo-contact-map.html",
+          "uuid": "856b1df137d69121fc979ae75b92e6b405b3e572"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/iriotec-8000.html",
+          "uuid": "de002ddf33bca286664931b72605dd2346c37a7e"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/iriotec-7000.html",
+          "uuid": "fefcd4e8cb54141ffeee1985cc1871825bf29361"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/spectraval.html",
+          "uuid": "ca976101444920b86b904d4120efb7eba23d1d06"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/licrivision.html",
+          "uuid": "9ecbd55aaedf24aee2c8f4ccaa66bf73793575ec"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/technipur.html",
+          "uuid": "6ceb33f144431df9f2dfa86d97ec02834ebbf3ee"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/miraval.html",
+          "uuid": "59b26c09ccad76be619e9cd6e8560f435aacda26"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/colorstream/colorstream-pyrisma-stylings.html",
+          "uuid": "0f173f510c707eae52808a3be9aa81224581249f"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/iriotec-9000.html",
+          "uuid": "9d2c58dc6caa9f7be684e084f8069498c55f4024"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/licristal/licristal-r-xtrafast.html",
+          "uuid": "8483e73f56ee3e6dddb666f0a74ebf1641007968"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/licristal/licristal-XtraBoost.html",
+          "uuid": "7a0f29cf6d2907e20f9960c651ef89fcc948a258"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/licristal/licristal-XtraBright.html",
+          "uuid": "c153b8874ab74992534fea4e2290add76c820cc5"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/licristal/licristal-XtraBrilliant.html",
+          "uuid": "b92ba9a9dafd5c4354a17ebec139698edf3dad5d"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company.html",
+          "uuid": "657a8d77bf4e517e507e50bc245c45f7668dbe4a"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/our-supervisory-board.html",
+          "uuid": "f53dca2c2e7c40d388911a06c8e4a23293d73a57"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/our-impact.html",
+          "uuid": "ad3a76d617d4c83e34f82f56c00f1df5711c2e46"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging.html",
+          "uuid": "28b1d2b478c67bacacc975f7da3aa9d5713d5be4"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/miraval/cosmic.html",
+          "uuid": "8dd1ddc5227aa6a5923899e40f46e46a20636a40"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/livilux.html",
+          "uuid": "b21885039634b84d7f6f697024555aa38677e411"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/licrivue.html",
+          "uuid": "e9ccf069ac30c585dfbe41311b97345fbc1d3d4d"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands/pm/liviflex.html",
+          "uuid": "969fc4f9542b4ded912dbb083d6299101fd5c894"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/strategy-and-values.html",
+          "uuid": "4c015d258f2ce93652bfb241b02011891bfb2364"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models/boonhuey-ee.html",
+          "uuid": "2e1134dc7383638fcfaf60fc20cdc2162ce67a47"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models/danyal-kennedy.html",
+          "uuid": "c7c61168df9e30550982c13375de54b234c3a384"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models/drechsler-melanie.html",
+          "uuid": "cbc13f7cf726af19256855128cecbfa8d1d15494"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models/edward-shober.html",
+          "uuid": "2a50ed65ea09c14df401e2f5d4b33aa7fa6ec5ae"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models/erika-brandao.html",
+          "uuid": "b45c9e9e0ecbd2119ab07c021d91d21078e052e2"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models/hong-chow.html",
+          "uuid": "05d022af54c165c44af2c6aa8f970ea9be4b0627"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models/maggie-lester.html",
+          "uuid": "ef6f8a4fa5105f191624dad2e8b896ef09654fbf"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models/tina-sandmann.html",
+          "uuid": "c1567488a0a7e95c2206d9cf4478bf484a3f3f64"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/events.html",
+          "uuid": "8e18113c5b3554501ebacf4ec3f1cb9d9d82a979"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/events/2019-01-14-bau-tradefair.html",
+          "uuid": "96b5a66a3f74097603b6ba53b1cba3f572bb3f23"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/events/14th-theme-days-border-and-surface-technology.html",
+          "uuid": "71192c157108ebe7c4987ef07108a32910d391b2"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/events/2019-02-24-spie-advanced-lithography.html",
+          "uuid": "b2128207ae084dc25ffee0d31a0bf7d34b0531b1"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/events/2019-03-19-european-coatings-show.html",
+          "uuid": "1af001858e06ff288651a2fcba44200443799ca4"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/events/2019-04-10-packaging-innovations-zurich.html",
+          "uuid": "21ac3a2bcffa421c8a2f1bb81f4d002344d81086"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/executive-board.html",
+          "uuid": "22b53db859cf6054103d1090e62a13d23f5fb6f3"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/building-belonging/role-models.html",
+          "uuid": "a9dab1a596734b907f4e17efb87d90b76b67a232"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/404.html?businessUnit-business:corporate,newsType-ALL,year-ALL,month-ALL,page-0,filter-news",
+          "uuid": "543ffdc077aaf49798fccd05dc443d5520afa6ba"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/404.html",
+          "uuid": "370b56ca9e4b437b1265a51c52212d1c0b41a640"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/em-kg/boards-em-kg.html",
+          "uuid": "d7c660b010c4355be992cc8247f6da7e288780b4"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/executive-board/kai-beckmann.html",
+          "uuid": "ae3892ab6c3b102081e4a9b7bd95259dcf910291"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/standard-terms-and-conditions.html",
+          "uuid": "a6212d12c3b9e20426b314952c2487b1e0136fc1"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/executive-board/belen-garijo.html",
+          "uuid": "3cac4c97c1aad82ba84b677e9cb46a6f2121aef0"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/executive-board/danny-bar-zohar.html",
+          "uuid": "6ace8841a31a4c1bc415ed7610f99c2932aefbaf"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/executive-board/jean-charles-wirth.html",
+          "uuid": "7e78a5b4b2e96ee7800afaf6051783e5b9e37ebe"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/executive-board/khadija-ben-hammada.html",
+          "uuid": "cd786ff35e535fed88a52068b798f2606c5a3706"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/executive-board/von-roeder-helene.html",
+          "uuid": "6462a7bb75b52fae2f49a7556f89b0ee27b0872b"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/scoc.html",
+          "uuid": "6b1374a6b81202b694d173cc6ddfc15b9d9d70cd"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/strategy-and-values/electronics-strategy.html",
+          "uuid": "8890b2fba0ccb3bf3dbd0b2c8b250a7360dc9101"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/brands.html",
+          "uuid": "c599057e5035d04cb7c403ca322de1d917328c39"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/e-procurement-partners.html",
+          "uuid": "e316ed70e0f212077eccdbe14a0dbb5af3a6e926"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/responsible-sourcing-principles.html",
+          "uuid": "a072fd7153b84846b17b8f7749426b5f6cd2abbf"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/strategy-and-values/healthcare-strategy.html",
+          "uuid": "bd70d96b48f48d8529b1579ec8af57a5e8ac5300"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/strategy-and-values/life-science-strategy.html",
+          "uuid": "9cb49a11bcfa0bf7864853fbeb31cd37c4819b67"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/collaboration-via-microsoft-office-365.html",
+          "uuid": "c82e75bbf1393a8da99622466bc72682e8396d83"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/e-procurement-partners/ariba-network.html",
+          "uuid": "0738232d5dfcc3fd9f9f6a077cbe9c06ac99582d"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/specific-terms-and-conditions.html",
+          "uuid": "21e4b89f6c58160bfa002829c5381b9c159e67e7"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management.html",
+          "uuid": "3f66ef0fa1905b0ee326ea436c116c5108eedbbb"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/vendor-requirement.html",
+          "uuid": "327c012ef434f42c511a3f5a9c6fe436a3c02885"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/digital-brand-hub.html",
+          "uuid": "57bff9a70f021b800d0d217708a8fa07cff13f5f"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/periodic-table-of-elements-app.html",
+          "uuid": "0a4ee39dff85d8fd11736af9dcc59514a0886d85"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/download-cart.html",
+          "uuid": "2132d86d87133e479e5adee5323be4cd27c69325"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/vendor-and-invoicing-instructions.html",
+          "uuid": "87d9593b8e3e246b8cac103d2e45654e0c968fe4"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/contact-us/guidance-for-suppliers.html",
+          "uuid": "5026b5242f4553be0eab0731bdbc2a4aeeecd0e3"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/management/em-kg.html",
+          "uuid": "7630ed7dacf3c32f8964758490895327a3a773cd"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/our-name-and-brand.html",
+          "uuid": "3685a06381cfb0c1af5d4ab72c6a47f932b374e9"
+        },
+        {
+          "url": "https://www.emdgroup.com/en/company/legal-proceedings.html",
+          "uuid": "a91b95162eedd3cc4000939fc12e55ae4aefae43"
+        }
+      ]
+    }
+  ]
+}
