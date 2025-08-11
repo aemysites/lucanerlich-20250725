@@ -120,7 +120,8 @@
       "url": "https://www.emdgroup.com/en/annualreport/2024/index.html",
       "source": "CRAWL",
       "targetPath": "/en/annualreport/2024",
-      "id": "77252a7535310e468ed3db1748aa7c6ff860994d"
+      "id": "77252a7535310e468ed3db1748aa7c6ff860994d",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/annualreport/2024/management-report/sustainability-statement.html",
@@ -186,13 +187,15 @@
       "url": "https://www.emdgroup.com/en/brands/pm/candurin/for-food.html",
       "source": "CRAWL",
       "targetPath": "/en/brands/pm/candurin/for-food",
-      "id": "8851d027d968de5e91d1fbe46890fa3d771379cb"
+      "id": "8851d027d968de5e91d1fbe46890fa3d771379cb",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/brands/pm/candurin/for-pharma.html",
       "source": "CRAWL",
       "targetPath": "/en/brands/pm/candurin/for-pharma",
-      "id": "0826c37ac7e0e6d6aa9735c9c279bc736851684a"
+      "id": "0826c37ac7e0e6d6aa9735c9c279bc736851684a",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/brands/pm/colorstream/colorstream-pyrisma-stylings.html",
@@ -258,7 +261,8 @@
       "url": "https://www.emdgroup.com/en/brands/pm/licristal.html",
       "source": "CRAWL",
       "targetPath": "/en/brands/pm/licristal",
-      "id": "1e758163502a0d7bad4f41888d65045d25965caa"
+      "id": "1e758163502a0d7bad4f41888d65045d25965caa",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/brands/pm/licristal/licristal-r-xtrafast.html",
@@ -3174,7 +3178,8 @@
       "url": "https://www.emdgroup.com/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/blue-phase0.html",
       "source": "CRAWL",
       "targetPath": "/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/blue-phase0",
-      "id": "dc850f7dcbdc8684838c95608c6d4681de0feba9"
+      "id": "dc850f7dcbdc8684838c95608c6d4681de0feba9",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/ips.html",
@@ -3186,7 +3191,8 @@
       "url": "https://www.emdgroup.com/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/mva.html",
       "source": "CRAWL",
       "targetPath": "/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/mva",
-      "id": "6814f6124b847c08e7a12afdd43503bf1f4faaae"
+      "id": "6814f6124b847c08e7a12afdd43503bf1f4faaae",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/psva.html",
@@ -3210,19 +3216,22 @@
       "url": "https://www.emdgroup.com/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/twisted-nematic.html",
       "source": "CRAWL",
       "targetPath": "/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/twisted-nematic",
-      "id": "51dfd9d33f50ec5a508c5b1226acc87485340c3d"
+      "id": "51dfd9d33f50ec5a508c5b1226acc87485340c3d",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/ub-ffs.html",
       "source": "CRAWL",
       "targetPath": "/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/ub-ffs",
-      "id": "c184dea6697c822a2d1dc8283b054738c68da5ff"
+      "id": "c184dea6697c822a2d1dc8283b054738c68da5ff",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/vertical-alignment.html",
       "source": "CRAWL",
       "targetPath": "/en/expertise/displays/solutions/liquid-crystals/lcd-technologies/vertical-alignment",
-      "id": "a4734ce1cc5a6f00aa3ad88b9a1204b44f64fb12"
+      "id": "a4734ce1cc5a6f00aa3ad88b9a1204b44f64fb12",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/expertise/displays/solutions/liquid-crystals/liquid-crystal-phases.html",
@@ -20164,7 +20173,7 @@
     },
     {
       "url": "https://www.emdgroup.com/en/annualreport/2024",
-      "status": "302 Moved Temporarily Redirect: https://www.emdgroup.com/en/annualreport/2024/"
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.emdgroup.com/en/sustainability/reports-and-guidelines/sustainability-statement.html",
